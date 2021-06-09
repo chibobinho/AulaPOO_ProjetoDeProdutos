@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\Projeto_marcas\bin\Debug\net5.0\Projeto_marcas.exe
+C:\Users\Pichau\Desktop\Projeto_marcas\bin\Debug\net5.0\Projeto_marcas.deps.json
+C:\Users\Pichau\Desktop\Projeto_marcas\bin\Debug\net5.0\Projeto_marcas.runtimeconfig.json
+C:\Users\Pichau\Desktop\Projeto_marcas\bin\Debug\net5.0\Projeto_marcas.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Projeto_marcas\bin\Debug\net5.0\Projeto_marcas.dll
+C:\Users\Pichau\Desktop\Projeto_marcas\bin\Debug\net5.0\ref\Projeto_marcas.dll
+C:\Users\Pichau\Desktop\Projeto_marcas\bin\Debug\net5.0\Projeto_marcas.pdb
+C:\Users\Pichau\Desktop\Projeto_marcas\obj\Debug\net5.0\Projeto_marcas.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Projeto_marcas\obj\Debug\net5.0\Projeto_marcas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Projeto_marcas\obj\Debug\net5.0\Projeto_marcas.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Projeto_marcas\obj\Debug\net5.0\Projeto_marcas.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Projeto_marcas\obj\Debug\net5.0\Projeto_marcas.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Projeto_marcas\obj\Debug\net5.0\Projeto_marcas.dll
+C:\Users\Pichau\Desktop\Projeto_marcas\obj\Debug\net5.0\ref\Projeto_marcas.dll
+C:\Users\Pichau\Desktop\Projeto_marcas\obj\Debug\net5.0\Projeto_marcas.pdb
+C:\Users\Pichau\Desktop\Projeto_marcas\obj\Debug\net5.0\Projeto_marcas.genruntimeconfig.cache
